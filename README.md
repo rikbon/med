@@ -10,3 +10,7 @@ Usage:
 MANGA_NAME is the name contained in the url of the manga (for instance, having an url like https://www.mangaeden.com/it/it-manga/one-piece/, MANGA_NAME is **_one-piece_** 
 
 LANG is the language version of the manga. Accepted values are *it* o *en* 
+
+# REQUIREMENTS
+<br>Obviously, the script must be run in a bash environment, will it be a linux box, Cygwin, mintty, Windows Linux Subsystem and so on.
+Having **wget** installed is *mandatory*
