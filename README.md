@@ -11,6 +11,12 @@ MANGA_NAME is the name contained in the url of the manga (for instance, having a
 
 LANG is the language version of the manga. Accepted values are *it* o *en* 
 
-# REQUIREMENTS
+## REQUIREMENTS
 <br>Obviously, the script must be run in a bash environment, will it be a linux box, Cygwin, mintty, Windows Linux Subsystem and so on.
 Having **wget** installed is *mandatory*
+
+## TO AFTER DOWNLOAD
+Modify files
+ * *med.properties*, changing absolute path of variable baseDir
+ * *downMangaEden_adv.sh*  changing absolute path at line #2
+
